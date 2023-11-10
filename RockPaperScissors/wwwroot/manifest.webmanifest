@@ -1,6 +1,6 @@
 {
-  "name": "RockPaperScissors",
-  "short_name": "RockPaperScissors",
+  "name": "Rock, Paper, Scissors",
+  "short_name": "Rock Paper Scissors",
   "id": "./",
   "start_url": "./",
   "display": "standalone",
