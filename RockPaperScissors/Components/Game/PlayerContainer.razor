@@ -2,7 +2,20 @@
     @PlayerName
 </MudText>
 
-@code {
-    [Parameter, EditorRequired]
-    public string PlayerName { get; set; } = string.Empty;
-}
+<MudStack>
+    <MudPaper>
+        <MudText>
+            Rock 🪨
+        </MudText>
+    </MudPaper>
+    <MudPaper>
+        <MudText>
+            Paper 📜
+        </MudText>
+    </MudPaper>
+    <MudPaper>
+        <MudText>
+            Scissors ✂️
+        </MudText>
+    </MudPaper>
+</MudStack>
