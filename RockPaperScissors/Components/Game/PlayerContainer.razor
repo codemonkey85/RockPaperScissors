@@ -1,0 +1,8 @@
+﻿<MudText Typo="@Typo.h5">
+    @PlayerName
+</MudText>
+
+@code {
+    [Parameter, EditorRequired]
+    public string PlayerName { get; set; } = string.Empty;
+}
