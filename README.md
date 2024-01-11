@@ -2,6 +2,6 @@
 
 Rock, Paper, Scissors
 
-[![Azure Static Web Apps CI/CD](https://github.com/codemonkey85/RockPaperScissors/actions/workflows/azure-static-web-apps-ambitious-glacier-0a02b2e0f.yml/badge.svg)](https://github.com/codemonkey85/RockPaperScissors/actions/workflows/azure-static-web-apps-ambitious-glacier-0a02b2e0f.yml)
+[![Deploy to GitHub Pages](https://github.com/codemonkey85/RockPaperScissors/actions/workflows/main.yml/badge.svg)](https://github.com/codemonkey85/RockPaperScissors/actions/workflows/main.yml)
 
-Deployed to: https://ambitious-glacier-0a02b2e0f.4.azurestaticapps.net
+Deployed to GitHub Pages: [https://codemonkey85.github.io/RockPaperScissors/](https://codemonkey85.github.io/RockPaperScissors/)
